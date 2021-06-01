@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint", "SharePoint\SharePoint.csproj", "{D537ED14-A1D7-45B1-A4F0-9CC5A56762FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D537ED14-A1D7-45B1-A4F0-9CC5A56762FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D537ED14-A1D7-45B1-A4F0-9CC5A56762FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D537ED14-A1D7-45B1-A4F0-9CC5A56762FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D537ED14-A1D7-45B1-A4F0-9CC5A56762FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1367CD6-2D68-48B2-B448-C385D3D0B72A}
+	EndGlobalSection
+EndGlobal
